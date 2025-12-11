@@ -3,12 +3,18 @@
 
 **Features**
 
-**Make Quiz**                                                   **Take Quiz**
-* Text box for your question and answer                         * Label telling you your Question
-* Submit button                                                 * Text box to enter the answer to the question
-* Reset button                                                  * Submit button
-* Label to show you what you Questions and Answers are          * Next button
-                                                                * Reset button
+**Make Quiz**                                                  
+* Text box for your question and answer                         
+* Submit button                                                 
+* Reset button                                                  
+* Label to show you what you Questions and Answers are         
+                                                                
+**Take Quiz**
+* Label telling you your Question
+* Text box to enter the answer to the question
+* Submit button
+* Next button
+* Reset button
 
 **Tools used in this project**
 * labels
